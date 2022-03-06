@@ -19,3 +19,4 @@
 [![功能超強大的實用螢幕錄影軟體--Screen Recorder 4 !](https://res.cloudinary.com/marcomontalbano/image/upload/v1646557251/video_to_markdown/images/youtube--YTjIOvF220w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YTjIOvF220w&t=21s "功能超強大的實用螢幕錄影軟體--Screen Recorder 4 !")
 
 ### <p align="center"> 接下來我們就來介紹試用版的功能。</p>
+> **第一步:將下載好的打開按下體驗版<br>第二步**
