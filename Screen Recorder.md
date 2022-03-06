@@ -13,10 +13,22 @@
 
 ------------
 
-## <p align="center">功能教學 PART1</p>
-## <p align="center"> 教學影片請點擊下方圖片前往觀看! </p>
+## <p align="center">功能教學 PART1 ---- 教學影片請點擊下方圖片前往觀看!</p>
 
 [![功能超強大的實用螢幕錄影軟體--Screen Recorder 4 !](https://res.cloudinary.com/marcomontalbano/image/upload/v1646557251/video_to_markdown/images/youtube--YTjIOvF220w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YTjIOvF220w&t=21s "功能超強大的實用螢幕錄影軟體--Screen Recorder 4 !")
 
-### <p align="center"> 接下來我們就來介紹試用版的功能。</p>
-> **第一步:將下載好的打開按下體驗版<br>第二步**
+</p>
+<p>  <br>
+  </p>
+  
+# 1.基本介面
+
+<div align="">
+<img src="https://drive.google.com/u/2/uc?id=1rionsF5Pzcwa9UfuFfuzJ1n8O8VybT0d&export=download" height="400px" alt="圖片說明" >
+<img src="https://drive.google.com/u/2/uc?id=1SC-kpmjjD48GKAUQV9V9-emIkVnYCPIf&export=download" height="400px" alt="圖片說明" >
+</div>
+
+> **這款軟體擁有兩種模式，左圖是錄影模式、右圖是直播模式，直播模式先不多做講解，以下是錄影模式的操作介紹!**
+
+
+> **第一步:將下載好的Screen Recorder打開，接著按下使用體驗版<br>第二步:利用滑鼠拖曳邊框，調整想要的畫面大小，如果要全螢幕錄製，可以直接點擊介面中的"全螢幕錄製"按鍵。**
