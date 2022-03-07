@@ -121,7 +121,7 @@
 <p>  <br>
   </p>
 
-### <p align="center">那麼這次關於Screen Recorder 4 的介紹就到此結束啦!</p>
+## <p align="center">那麼這次關於Screen Recorder 4 的介紹就到此結束啦!</p>
 ### <p align="center">下次再推薦各位更多實用的螢幕錄影軟體!</p>
 
 --------------
