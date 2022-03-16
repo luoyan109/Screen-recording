@@ -10,4 +10,8 @@
 
 # 1. Win10 內建錄影軟體 --- Xbox Game Bar
 
+# 2. 自由開源軟體套件 --- OBS 
 
+(Open Broadcaster Software)
+![Obs]() 
+# 3. 螢幕錄影大師 --- FonePaw 
