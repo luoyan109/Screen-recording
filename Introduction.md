@@ -9,14 +9,18 @@
 <br>
 
 # 1. Win10 內建錄影軟體 --- Xbox Game Bar
-![xbox][img="https://raw.githubusercontent.com/luoyan109/Screen-recording/main/images/Inkedwing_LI.jpg")
+<p align="center"><img src="https://raw.githubusercontent.com/luoyan109/Screen-recording/main/images/Inkedwing_LI.jpg" width="60%" height="60%" ></p>
 
 > ### 步驟一 : 按下鍵盤的 Win鍵+G健 --顯示Xbox介面
 > ### 步驟二 : 滑鼠點擊畫面中白色的圓形錄影按鍵
 
+<p> <br>
+</p>
 
 # 2. 自由開源軟體套件 --- OBS 
 
-(Open Broadcaster Software)
+## [Open Broadcaster Software 官方下載連結](https://obsproject.com/)
 
 # 3. 螢幕錄影大師 --- FonePaw 
+
+## [螢幕錄影大師 官方下載連結](https://www.fonepaw.com/tw/screen-recorder/)
